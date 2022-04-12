@@ -4,7 +4,7 @@
 
 ## webRTC 주요 용어
 
-### [ICE (Interactive Connectivity Establishment)](#ICE)
+### [ICE (Interactive Connectivity Establishment)](#ICE-(Interactive-Connectivity-Establishment))
 ### NAT (Network Address Translation)
 ### STUN (Session Traversal Utilities for NAT)
 ### TURN (Traversal Using Relays around NAT)
